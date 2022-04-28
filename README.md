@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-grid-section-with-sass-rykQqOdBc)
 - Live Site URL: [Add live site URL here](https://cla91.github.io/testimonials-grid-section-main/)
 
 ## My process
