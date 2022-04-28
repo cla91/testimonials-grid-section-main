@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-It's my first time using SASS, so I just tried a cuple of things to understand how they worked. The CSS looks a bit messy with all the :nth-child(), maybe I should have used more classes.
+It's my first time using SASS, so I just tried a couple of things to understand how they worked. The CSS looks a bit messy with all the :nth-child(), maybe I should have used more classes.
 
 ## Author
 
